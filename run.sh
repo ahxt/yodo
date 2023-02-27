@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python -u train_tabular.py --log_screen True
