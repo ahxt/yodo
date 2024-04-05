@@ -1,4 +1,4 @@
-## Code for TMLR Review
+## Code for Review
 
 ### Python Packages
 - pytorch==1.10.0
