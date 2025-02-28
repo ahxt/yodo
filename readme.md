@@ -1,4 +1,4 @@
-## Code for Review
+## Code for [CPAL2025] You Only Debias Once: Toward Flexible Accuracy-Fairness Trade-offs
 
 ### Python Packages
 - pytorch==1.10.0
